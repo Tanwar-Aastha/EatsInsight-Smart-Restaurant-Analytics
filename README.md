@@ -79,7 +79,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```
-streamlit run app.py
+streamlit run Restaurant_Recommender_App.py
 ```
 
 Access the application via the Streamlit interface.
